@@ -14,7 +14,7 @@ In this project, we created an application to find repositories on GitHub from t
 We use ReactJS concepts as a basis to create our Application Frontend
 
 <p align="center">
-  <img  src="./assets/application.png">
+  <img  src="./src/assets/application.png">
 </p>
 
 
